@@ -16,7 +16,7 @@ export class FloatingMessages {
     }
     draw(context){
         context.save();
-        context.font = '40px Creepster';
+        context.font = '40px Helvetica';
         context.fillStyle = 'White';
         context.shadowOffsetX = 2;
         context.shadowOffsetY = 2;
